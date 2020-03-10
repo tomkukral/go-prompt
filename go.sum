@@ -6,6 +6,8 @@ github.com/mattn/go-runewidth v0.0.3 h1:a+kO+98RDGEfo6asOGMmpodZq4FNtnGP54yps8Bz
 github.com/mattn/go-runewidth v0.0.3/go.mod h1:LwmH8dsx7+W8Uxz3IHJYH5QSwggIsqBzpuz5H//U1FU=
 github.com/mattn/go-tty v0.0.0-20180219170247-931426f7535a h1:8TGB3DFRNl06DB1Q6zBX+I7FDoCUZY2fmMS9WGUIIpw=
 github.com/mattn/go-tty v0.0.0-20180219170247-931426f7535a/go.mod h1:XPvLUNfbS4fJH25nqRHfWLMa1ONC8Amw+mIA639KxkE=
+github.com/mceloud/go-prompt v0.2.3 h1:W4VhLciEMi7SmVdkgVRP5d/jM/A7Gos9r4LkgYS24UM=
+github.com/mceloud/go-prompt v0.2.3/go.mod h1:hTVxSqqCm0oDShU11jHWLcxp7U0qNpbTy4KBkUPp3sU=
 github.com/pkg/term v0.0.0-20180423043932-cda20d4ac917 h1:BinR73QvQveJdQ8uYZK/8MOjLADpZbI2qs/2+5rnhzQ=
 github.com/pkg/term v0.0.0-20180423043932-cda20d4ac917/go.mod h1:eCbImbZ95eXtAUIbLAuAVnBnwf83mjf6QIVH8SHYwqQ=
 golang.org/x/sys v0.0.0-20180620133508-ad87a3a340fa h1:MUO6aP6ViFfqImh/3zU3O6QX3W2hFRzkkuCIQuUCOsM=
