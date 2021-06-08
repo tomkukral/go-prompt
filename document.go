@@ -5,8 +5,8 @@ import (
 	"unicode/utf8"
 
 	runewidth "github.com/mattn/go-runewidth"
-	"github.com/mceloud/go-prompt/internal/bisect"
-	istrings "github.com/mceloud/go-prompt/internal/strings"
+	"github.com/c-bata/go-prompt/internal/bisect"
+	istrings "github.com/c-bata/go-prompt/internal/strings"
 )
 
 // Document has text displayed in terminal and cursor position.
